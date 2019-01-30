@@ -30,3 +30,7 @@ When making your Pie Chart, experiment with effects like `shadow`, `startangle`,
 
 You must include an exported markdown version of your Notebook called  README.md in your GitHub repository.
 See Example Solution for a reference on expected format.
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
