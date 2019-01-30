@@ -24,7 +24,8 @@ You must use proper labeling of your plots, including aspects like: Plot Titles,
 Remember when making your plots to consider aesthetics!
 
 You must stick to the Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
-When making your Bubble Plot, experiment with effects like `diff - alpha`, `edgecolor`, and `linewidths`.
+When making your Bubble Plot, experiment with effects like ```diff
+- alpha```, `edgecolor`, and `linewidths`.
 When making your Pie Chart, experiment with effects like `shadow`, `startangle`, and `explosion`.
 
 
